@@ -12,10 +12,9 @@
      <div class="logo-box">
       <img class="logo" src="images/z-wwr-blue.jpg" >
         <nav class="navbar">
-        <a href ="list" > | HOME | </a>
-        <a href = "list"> | ABOUT US | </a>
-        <a href ="list" > | TRIPS | </a>
-        <a href ="list" > | CONTACT US | </a>
+        <a href ="Home.html" > | HOME | </a>
+        <a href = "About us.html"> | ABOUT US | </a>
+        <a href ="Contact us.html" > | CONTACT US | </a>
         </nav>
 <div id="my_cover">
   <img class=my_cover src="images/fall-upper-gauley.jpg">
